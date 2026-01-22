@@ -1,0 +1,7 @@
+{
+  "name": "CIVIX.AI — Autonomous Government Scheme Action Agent",
+  "description": "An autonomous AI agent that converts complex government schemes into structured action plans, using Gemini 3 Pro for deep reasoning and real-time scheme discovery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
